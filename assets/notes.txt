@@ -1,0 +1,1696 @@
+
+int main ()
+{
+    
+    float billAmount;
+    float discount;
+
+    cout << "Enter The Bill Amount:- " << endl;
+    cin >> billAmount;
+
+    if(billAmount>=500)
+    {
+        discount = billAmount * 20 / 100 ;
+    }
+
+    else if(billAmount >= 100 && billAmount<500)
+    {
+        discount = billAmount * 10 / 100 ;
+    }
+    
+    cout << "Bill Amount Is:- " << billAmount << endl;
+    cout << "Discount is:- " << discount << endl;
+    cout << "Discounted Amount Is:- " << billAmount - discount << endl;  
+    return 0;
+}
+
+
+
+***************************************************************************************************
+
+
+ <div class="containerx">
+
+
+      <div class="software-title" data-aos="fade-in" data-aos-delay="100">
+        <h2>Software features</h2>
+        <p>EXTENSIVE FEATURES FOR <strong>END-TO-END</strong> SOLUTIONS 
+          Tailored to perfection for a seamless experience</p>
+      </div>
+
+      <div class="row content" id="Employee_management1">
+        <div class="col-md-5" data-aos="fade-right">
+          <img src="./assets/img/employeeman2.jpg" class="img-fluid_emp" alt="" style="padding-top: 0px; position: absolute; left: 100px; top: 130px; border-radius: 20px;">
+        </div>
+        <div class="col-md-7 pt-4" data-aos="fade-left" style="padding: 50px;">
+          <h3>Employee Management</h3><br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>e-Pay HRMS manages all employee details covering CTC, personal, family, assets, education, experience, skills, past employment history, trainings undergone etc with sufficient authorized documentation and photo of employee and their family for any future benefits and necessities.  </li>
+            <br>
+            <li><i class="icofont-check"></i><b></b>Employee management refers to the mental and emotional connection formed between the employees and their workplaces. Engaged employees are individuals that are motivated towards their work and committed to their workplaces. </li>
+            <br>
+            <li><i class="icofont-check"></i><b></b>If an employee is psychological and emotionally invested in their organization, it will be more likely that they will remain a part of the company for longer. Employee engagement is essential for the organization as it ensures that the employees are invested in the <kbd>goals of the company</kbd> . </li>
+             <br>
+          </ul>
+        </div>
+      </div>
+
+      <div class="row content" id="Timecard_management">
+        <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+          <img src="./assets/img/timecardman.png" Height="200px" style="padding-top: 34px; position: absolute; left: 120px; top: 100px; border-radius: 20px; padding-top: 0px;"
+            class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+          <h3>Timecard Management</h3>
+           <br>
+         <ul>
+          <li><i class="icofont-check"></i><b></b>e-Pay HRMS offers range of options to choose from different modules based on the needs of customers from SOHO to large enterprises. Customers can choose the right product based on their requirement and need based and can scale up modules and resources on the go just in time.  </li>
+          <br>
+          <li><i class="icofont-check"></i><b></b>An Timecard Management stores a record of the amount of time an employee has spent at work, on a particular job, project or working for a specific client. </li>
+          <br>
+          <li><i class="icofont-check"></i><b></b>Employee management refers to the mental and emotional connection formed between the employees and their workplaces. Engaged employees are individuals that are motivated towards their work and committed to their workplaces. </li>
+          <br>
+         </ul>
+         
+          <br><br>
+        </div>
+      </div>
+
+      <div class="row content" id="shift_management">
+        <div class="col-md-5" data-aos="fade-right">
+          <img src="assets/img/shiftman.png" class="img-fluid" alt="" style="position: absolute; border-radius: 20px; padding-top: 0px; right: 100px; bottom: 50px;">
+        </div>
+        <div class="col-md-7 pt-4" data-aos="fade-left">
+          <h3>Shift Management</h3>
+          <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>e-Pay HRMS provides the flexibility to handle shifts by Day shift, Night Shift, Flexi shifts that can be designated using shift allocation and shift pattern creation which can create different types of shifts to be mapped to employees using different parameters.</li>
+            <br>
+            <li><i class="icofont-check"></i><b></b>A shift manager supervises the operation of business while working alongside the employees during a particular shift.</li>
+             <br>
+            <li><i class="icofont-check"></i><b></b>When your employees work in shifts, you can allow them to pick their hours, making them more productive. By setting their schedule, employees can have more control over how they go about their day, giving them the ability to maintain a work-life balance.</li>
+
+          </ul>
+        </div>
+      </div>
+       <br>
+       <br>
+      <div class="row content" id="attendance_management">
+        <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+          <img src="assets/img/attendanceman.png" Height="200px" style="padding-top: 0px; border-radius: 20px; position: absolute; left: 80px; bottom: 100px; "
+            class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+          <h3>Attendance Management</h3>
+          <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>e-Pay T&A in HRMS software has the choice of options to store attendance details in timecard using a) direct readers integration b) time card manual entry and c) cumulative consolidated input to compute attendance, OT and leave details.</li>
+            <br>
+            <li><i class="icofont-check"></i><b></b>Users have the flexibility to choose the way they want to input their attendance to the system and seamlessly process the worked days, leave days and payroll details..</li>
+             <br>
+            <li><i class="icofont-check"></i><b></b>The attendance process calculates the working days, non-working days (weekly-offs, leaves, and holidays), loss of pay days, etc for all employees. ... For example, in case if an employee was absent on a given day and he did not add a leave request for that given day, but he has sufficient leave balance in his account.</li>
+
+          </ul>
+          
+
+         
+         
+          
+        </div>
+      </div>
+        <br>
+        <br>
+      <div class="row content" id="payroll_processing">
+        <div class="col-md-5" data-aos="fade-right">
+          <img src="assets/img/software pics/payrollprocessing.jpeg" class="img-fluid" alt="" style="padding-top: 0px; border-radius: 20px; position: absolute; right: 100px; bottom: 50px;">
+        </div>
+        <div class="col-md-7 pt-4" data-aos="fade-left">
+          <h3>Payroll Processing</h3>
+          <ul>
+            <br>
+            <li><i class="icofont-check"></i><b></b>Employee's Salary computation becomes effortless with e-Pay HRMS salary computing process.</li>
+             <br>
+            <li><i class="icofont-check"></i><b></b>Salary calculation, PF, ESI returns, Leave calculation, OT, Pay slip, Pay register, generation of statutory reports and much many more reports can be generated in with just very less or no effort.</li>
+            <br>
+            <li><i class="icofont-check"></i><b></b> Processes can be completed in a fraction of the time, which frees employees up for activities that are more conducive to generating revenue.</li>
+             <br>
+             <br>
+          </ul>
+        </div>
+      </div>
+
+      <div class="row content" id="employee_servics">
+        <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+          <img src="assets/img/software pics/ess1.jpg" Height="200px" style="padding-top: 0px; border-radius: 20px; position: absolute; left: 90px; bottom: 38px;"
+            class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+          <h3>Employee Self Servics</h3>
+           <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>Employee Self Service comes as opted simple tool to employees for leave management, pay slip and attendance details pertaining to each employee.</li>
+            <br>
+            <li><i class="icofont-check"></i><b></b>ESS could also act as a tool to put forward employee grievance and suggestions to management at the fingertips of the user.</li>
+             <br>
+            <li><i class="icofont-check"></i><b></b> Employees may be able to access scheduling and other information from home, which saves employees time and can boost feelings of empowerment.</li>
+
+          </ul>
+
+         
+         
+          <br><br>
+        </div>
+      </div>
+
+      <div class="row content" id="employee_onboarding">
+        <div class="col-md-5" data-aos="fade-right">
+          <img src="assets/img/software pics/employeeonbord.jpg" class="img-fluid" alt="" style="padding-top: 0; border-radius: 20px; position: absolute; right: 100px; bottom: 70px;">
+        </div>
+        <div class="col-md-7 pt-4" data-aos="fade-left">
+          <h3>Employee Onboarding</h3>
+           <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>People often feel nervous, not knowing all the rules and what’s expected of them. If no one shows the new starter the ropes and lets them in on the unspoken rules, they will never feel completely integrated – affecting their ability to perform at their best.</li>
+           <br>
+            <li><i class="icofont-check"></i><b></b>Effective onboarding has been shown to increase employee performance by up to 11%. There is little difference between the first day at a new job and the first day in a new classroom.</li>
+           <br>
+            <li><i class="icofont-check"></i><b></b>You may even want to communicate the employee’s departure to customers if they are in a customer-facing role.</li>
+             <br>
+          </ul>
+          <br>
+        </div>
+      </div>
+
+      <div class="row content" id="costto_man">
+        <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+          <img src="assets/img/software pics/costtocom2.png" Height="200px" style="padding-top: 0px; border-radius: 20px; position: absolute; left: 90px; bottom: 80px;"
+            class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+          <h3>Cost To Company (CTC) Management</h3>
+           <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>Monetary Benefits are those benefits that are other than allowances and are directly paid to an employee. These include Basic Pay, Bonus, Commission, and Incentives, etc. These benefits are fully taxable in the hands of the employee.</li>
+           <br>
+            <li><i class="icofont-check"></i><b></b>Allowances are indirect costs that are paid to an employee. These costs are further divided into two main categories viz., Personal and Duty Based.</li>
+           <br>
+            <li><i class="icofont-check"></i><b></b>Retirement benefits are those benefits that an employer pays on behalf of the employee that are accrued at the time of retirement.</li>
+             <br>
+          </ul>
+
+         
+         
+          <br><br>
+        </div>
+      </div>
+
+      <div class="row content" id="employeecase_man">
+        <div class="col-md-5" data-aos="fade-right">
+          <img src="assets/img/software pics/employeecasema.jpeg" class="img-fluid" alt="" style="padding-top: 0px; border-radius: 20px; position: absolute; right: 100px; bottom: 70px;">
+        </div>
+        <div class="col-md-7 pt-4" data-aos="fade-left">
+          <h3>Employee Case Management</h3>
+          <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>A concern I have when I talk with investigators about how they are managing their cases is that there just isn’t any sort of business continuity protocol in place</li>
+           <br>
+            <li><i class="icofont-check"></i><b></b> case management solution  at EHRMS, is that HR Acuity allows us to retain all of our investigative data in one centralized portal.</li>
+            <br>
+            <li><i class="icofont-check"></i><b></b>I like being able to look back on complaints and investigations to see the patterns, such as I mentioned with the situation with the general manager whose behavior was in conflict with organizational values.</li>
+             <br>
+             <br>
+          </ul>
+        </div>
+      </div>
+
+      <div class="row content" id="employeetracking_man">
+        <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+          <img src="assets/img/software pics/assettracking.png" Height="200px" style="padding-top: 0px; border-radius: 20px; position: absolute; left: 100px; bottom: 80px;"
+            class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+          <h3>Employee asset tracking Management</h3>
+           <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>Employee asset Tracking is carried out by organizations with the aim of improving the usage and security of valuable items.</li>
+           <br>
+            <li><i class="icofont-check"></i><b></b>In our EHRMS Payroll software, The Employee asset tracking management combining many conceptual elements of an employee's life cycle through an organization focusing on that people are a company's most important assets.</li>
+            <br>
+            <li><i class="icofont-check"></i><b></b>Automate your asset management processes and reduce admin.</li>
+             <br>
+          </ul>
+
+         
+         
+          <br><br>
+        </div>
+      </div>
+
+      <div class="row content" id="employee_selfportal">
+        <div class="col-md-5" data-aos="fade-right">
+          <img src="assets/img/software pics/employeeselfport1.jpeg" class="img-fluid" alt="" style="padding-top: 0px; border-radius: 20px; position: absolute; right: 100px; bottom: 70px;">
+        </div>
+        <div class="col-md-7 pt-4" data-aos="fade-left">
+          <h3>Employee Self Portal</h3>
+          <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>Self-service is no longer a luxury, but has expectantly become a part of our daily routines. We want the power and freedom to do things when we want, and we expect self-service to be an effortless user experience. </li>
+             <br> 
+            <li><i class="icofont-check"></i><b></b>Employee Self Service comes as opted simple tool to employees for leave management, pay slip and attendance details pertaining to each employee.</li>
+              <br>
+            <li><i class="icofont-check"></i><b></b>Employee Self Portal could also act as a tool to put forward employee grievance and suggestions to management at the fingertips of the user.</li>
+               <b></b>
+               <br>
+               <br>
+          </ul>
+        </div>
+      </div>
+
+      <div class="row content" id="keyperformance_indicators">
+        <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+          <img src="assets/img/software pics/kpikrikra.jpg" Height="200px" style="padding-top: 0px; border-radius: 20px; position: absolute; left: 100px; bottom: 140px; "
+            class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+          <h3>Key Performance Indicators (KPI) /Key Result Area (KRA) /Key Risk Indicators (KRI)</h3>
+           <br>
+          <ul>
+            <li><i class="icofont-check"></i><b>KPI: </b>Keep a running tally of payroll errors per pay period. For a long-term payroll accuracy percentage, divide the number of payroll runs with errors by the total number of payroll runs.</li>
+              <br>
+            <li><i class="icofont-check"></i><b>KRA: </b>Each job can be broken down into about five to seven key result areas, seldom more. These are the results that you absolutely, positively have to get to fulfill your responsibilities and make your maximum contribution to your organization.</li>
+                <br>
+            <li><i class="icofont-check"></i><b>KRI: </b>Our EHRMS Payroll Software Used to metric for measuring the likelihood that the combined probability of an event and its consequence will exceed the organization's risk appetite and have a profoundly negative impact on an organization's ability to be successful. </li>
+                <br>
+          </ul>
+         
+         
+          <br><br>
+        </div>
+      </div>
+
+      <div class="row content" id="humancapital_management">
+        <div class="col-md-5" data-aos="fade-right">
+          <img src="assets/img/software pics/hcm1.png" class="img-fluid" alt="" style="padding-top: 0px; border-radius: 20px; position: absolute; right: 100px; bottom: 70px;">
+        </div>
+        <div class="col-md-7 pt-4" data-aos="fade-left">
+          <h3>Human Capital Management</h3>
+          <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>When you and your employees are easily able to access the information you need, when you need it, it can completely transform your organization. You’ll go from drowning in the tactical details of your business to becoming more strategic in your approach to human resources and your business as a whole.</li>
+             <br>
+            <li><i class="icofont-check"></i><b></b>An HCM software system lets employees input their own time and attendance information, which is then connected to their salary information and ACA reporting requirements.</li>
+              <br>
+            <li><i class="icofont-check"></i><b></b>HCM technology also makes for much faster and more accurate onboarding, so it’s less time-consuming to grow your workforce.</li>
+              <br>
+              <br>
+               
+          </ul>
+        </div>
+      </div>
+
+      <div class="row content" id="training_development">
+        <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+          <img src="./assets/img/software pics/training2.jpg" Height="200px" style="padding-top: 0px; border-radius: 20px; position: absolute; left: 100px; bottom: 100px;"
+            class="img-fluid" alt="">
+        </div>
+        <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+          <h3>Training & Development</h3>
+           <br>
+           <ul>
+            <li><i class="icofont-check"></i><b></b>Some methods of employee development occur on the job, with the manager or an experienced co-worker leading the development activity in the context of the actual work environment. </li>
+             <br> 
+            <li><i class="icofont-check"></i><b></b>To accelerate the pace of employee learning, organizations may use an individual development plan (IDP). </li>
+              <br>
+            <li><i class="icofont-check"></i><b></b>Succession planning identifies long-range needs and cultivates internal talent to meet those needs. Succession plans typically focus on a one- to three-year process of preparing employees—not preselecting them—for new roles in the organization.</li>
+            <br><br>
+
+        
+
+        </div>
+      </div>
+
+      <div class="row content" id="recruitmentt">
+        <div class="col-md-5" data-aos="fade-right">
+          <img src="assets/img/software pics/recurtmenttt.png" class="img-fluid" alt="" style="padding-top: 0px; border-radius: 20px; position: absolute; right: 100px; bottom: 130px;">
+        </div>
+        <div class="col-md-7 pt-4" data-aos="fade-left">
+          <h3>Recruitment</h3>
+          <br>
+          <ul>
+            <li><i class="icofont-check"></i><b></b>Scheduling Interviews, short listing and confirmation of resources has never been this simple.</li>
+             <br>
+            <li><i class="icofont-check"></i><b></b>E-pay HRMS you can either use the templates available or create your own covering letters, offer letters, interview schedulers etc., and update to database to grab the attention of prospective resources.</li>
+              <br>
+            <li><i class="icofont-check"></i><b></b>Our EHRMS is an exceptionally user-friendly payroll software that can help recruitment agencies with payroll management. It is loaded with some of the best payroll management features. Its small-business-friendly price tag makes it a great choice for up and coming recruitment and staffing companies.</li>
+              <br>
+              <br>
+               
+          </ul>
+
+           <!--modal popup button-->
+         <button id="myBtn" class="soft_1" style="position: relative; left: 4%;"><span>More details...</span></button>
+        </div>
+      </div>
+     
+      <br>
+      <br>
+
+      <div style="overflow-x:auto;">
+        <table data-aos="fade-right bg-light" class="data table" style="position: relative; left: 80px; width: 90%; border-radius: 4px; border-color: #71B8E9; background-color: #71B8E9;">
+
+              <!--ser_1-->
+          <tr>
+            <td>
+              <div class="employee Management"><a href="#employee Management"><i class="icofont-check"></i><b> EM</b> (Employee <br>
+                  Management)</a></div>
+            </td>
+            <!--ser_2-->
+            <td>
+              <div class="timecard Management"><a href="#timecard Management"><i class="icofont-check"></i><b> TM</b> (Timecard Management)</a></div>
+            </td>
+            <!--ser_3-->
+            <td>
+              <div class="shift Management"><a href="#shift Management"><i class="icofont-check"></i><b> SM </b> (Shift Management)</a></div>
+            </td>
+          </tr>
+          <!--ser_4-->
+          <tr>
+            <td>
+              <div class="attendance Management"><a href="#attendance Management"><i class="icofont-check"></i><b> AM</b> (Attendance Management)</a></div>
+            </td>
+            <!--ser_5-->
+            <td>
+              <div class="payroll Processing"><a href="#payroll Processing"><i class="icofont-check"></i><b> PS</b> (Payroll Processing)</a></div>
+            </td>
+            <!--ser_6-->
+            <td>
+              <div class="employee Self Servics"><a href="#employee Self Servics"><i class="icofont-check"></i><b> ESS</b> (Employee Self Servics)</a></div>
+            </td>
+          </tr>
+          <tr>
+            <!--ser_7-->
+            <td>
+              <div class="employee Onboarding"><a href="#employee Onboarding"><i class="icofont-check"></i><b> EO</b> (Employee Onboarding)</a>
+              </div>
+            </td>
+            <!--ser_8-->
+            <td>
+              <div class="ctc"><a href="#ctc"><i class="icofont-check"></i><b> CTC</b> (Cost To Company Management)
+                </a></div>
+            </td>
+            <!--ser_9-->
+            <td>
+              <div class="employeee Case Management"><a href="#employeee Case Management"><i class="icofont-check"></i> Employee Case Management</a></div>
+            </td>
+          </tr>
+          <!--ser_10-->
+          <tr>
+            <td>
+              <div class="employeeee Asset Tracking Management"><a href="#employeeee Asset Tracking Management"><i class="icofont-check"></i><b> EATM</b> <br>(Employee asset tracking Management)</a>
+              </div>
+            </td>
+            <!--ser_11-->
+            <td>
+              <div class="employe Self Portal"><a href="#employe Self Portal"><i class="icofont-check"></i>Employee Self Portal
+              </a></div>
+            </td>
+            <!--ser_12-->
+            <td>
+              <div class="kpi"><a href="#kpi"><i class="icofont-check"></i>Key Performance Indicators (KPI) <br>/Key Result Area (KRA) <br> /Key Risk Indicators (KRI)</a></div>
+            </td>
+          </tr>
+          <!--ser_13-->
+          <tr>
+            <td>
+              <div class="human Capital Management"><a href="#human Capital Management"><i class="icofont-check"></i>Human Capital Management</a></div>
+            </td>
+            <!--ser_14-->
+            <td>
+              <div class="training Development"><a href="#training Development"><i class="icofont-check"></i>Training & Development</a>
+              </div>
+            </td>
+            <!--ser_15-->
+            <td>
+              <div class="recruitment"><a href="#recruitment"><i class="icofont-check"></i>Recruitment</a></div>
+            </td>
+          </tr>
+
+        </table></div>
+        
+        <!--modal-->
+
+        <div id="myModal" class="modal">
+          <div class="modal-content">
+            <span class="close">&times;</span>
+
+            <!--sec_1-->
+            <div class="row content" id="employee Management">
+              <div class="col-md-5">
+                <img src="/assets/img/employeeman2.jpg" class="img-fluid" alt="" style="padding-top: 120px; padding-left: 60px;">
+              </div>
+              <div class="col-md-7 pt-4">
+                <h3><b> EM</b> (Employee Management)</h3>
+                <br>
+                e-Pay HRMS manages all employee details covering CTC, personal, family, assets, education, experience, skills, past employment history, trainings undergone etc with sufficient authorized documentation and photo of employee and their family for any future benefits and necessities.
+                <br><br>
+                Employee management refers to the mental and emotional connection formed between the employees and their workplaces. Engaged employees are individuals that are motivated towards their work and committed to their workplaces.
+                <br><br>
+                If an employee is psychological and emotionally invested in their organization, it will be more likely that they will remain a part of the company for longer. Employee engagement is essential for the organization as it ensures that the employees are invested in the goals of the company.
+
+              </div>
+            </div>
+
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+
+            <!--sec_2-->
+            <div class="row content" id="timecard Management">
+              <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+                <img src="assets/img/timecardman.png" Height="200px"
+                  style="padding-top: 100px; padding-left: 50px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+                <h3>Timecard Management</h3>
+                <p>
+                  e-Pay HRMS offers range of options to choose from different modules based on the needs of customers from SOHO to large enterprises. Customers can choose the right product based on their requirement and need based and can scale up modules and resources on the go just in time.
+                  <br><br>
+                  An Timecard Management stores a record of the amount of time an employee has spent at work, on a particular job, project or working for a specific client.
+                  <br><br>
+                  Employee management refers to the mental and emotional connection formed between the employees and their workplaces. Engaged employees are individuals that are motivated towards their work and committed to their workplaces.
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+            <!--sec_3-->
+             <br><br>
+            <div class="row content" id="shift Management">
+              <div class="col-md-5">
+                <img src="assets/img/shiftman.png" Height="200px"
+                  style="padding-top: 100px; padding-left: 50px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-4">
+                <br>
+                <h3>Shift Management</h3>
+                <p>
+                  e-Pay HRMS provides the flexibility to handle shifts by Day shift, Night Shift, Flexi shifts that can be designated using shift allocation and shift pattern creation which can create different types of shifts to be mapped to employees using different parameters.
+                  <br><br>
+                  A shift manager supervises the operation of business while working alongside the employees during a particular shift.
+                  <br><br>
+                  When your employees work in shifts, you can allow them to pick their hours, making them more productive. By setting their schedule, employees can have more control over how they go about their day, giving them the ability to maintain a work-life balance.
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+            <!--sec_4-->
+            <div class="row content" id="attendance Management">
+              <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+                <img src="assets/img/attendanceman.png" Height="200px"
+                  style="padding-top: 120px; padding-left: 60px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+                <h3>Attendance Management</h3>
+                <br>
+                <p>
+                  e-Pay T&A in HRMS software has the choice of options to store attendance details in timecard using a) direct readers integration b) time card manual entry and c) cumulative consolidated input to compute attendance, OT and leave details.
+                  <br><br>
+                  Users have the flexibility to choose the way they want to input their attendance to the system and seamlessly process the worked days, leave days and payroll details.
+                   <br><br>
+                   The attendance process calculates the working days, non-working days (weekly-offs, leaves, and holidays), loss of pay days, etc for all employees. For example, in case if an employee was absent on a given day and he did not add a leave request for that given day, but he has sufficient leave balance in his account.
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+            <!--sec_5-->
+            <div class="row content" id="payroll Processing">
+              <div class="col-md-5">
+                <img src="assets/img/software pics/payrollprocessing.jpeg" Height="200px"
+                  style="padding-top: 75px; padding-left: 60px; " class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-4">
+                <br>
+                <h3> Payroll Processing</h3>
+                <br>
+                <p>
+                  Employee's Salary computation becomes effortless with e-Pay HRMS salary computing process.
+                  <br><br>
+                  Salary calculation, PF, ESI returns, Leave calculation, OT, Pay slip, Pay register, generation of statutory reports and much many more reports can be generated in with just very less or no effort.
+                  <br><br>
+                  Processes can be completed in a fraction of the time, which frees employees up for activities that are more conducive to generating revenue.
+                </p>
+              </div>
+            </div>
+            <br><br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+             <br><br>
+            <!--sec_6-->
+            <div class="row content" id="employee Self Servics">
+              <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+                <img src="assets/img/software pics/ess1.jpg" Height="200px"
+                  style="padding-top: 120px; padding-left: 60px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+                <h3>Employee Self Servics</h3>
+                <br><br>
+                <p>
+                  Employee Self Service comes as opted simple tool to employees for leave management, pay slip and attendance details pertaining to each employee.
+                  <br><br>
+                  ESS could also act as a tool to put forward employee grievance and suggestions to management at the fingertips of the user.
+                  <br><br>
+                  Employees may be able to access scheduling and other information from home, which saves employees time and can boost feelings of empowerment.
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+            <br><br>
+            <!--sec_7-->
+
+            <div class="row content" id="employee Onboarding">
+              <div class="col-md-5">
+                <img src="assets/img/software pics/employeeonbord.jpg" Height="200px"
+                  style="padding-top: 150px;padding-left: 60px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-4">
+                <br>
+                <h3>Employee Onboarding</h3>
+                <br><br>
+                <p>
+                  People often feel nervous, not knowing all the rules and what’s expected of them. If no one shows the new starter the ropes and lets them in on the unspoken rules, they will never feel completely integrated – affecting their ability to perform at their best.
+                  <br><br>
+                  Effective onboarding has been shown to increase employee performance by up to 11%. There is little difference between the first day at a new job and the first day in a new classroom.
+                  <br><br>
+                  You may even want to communicate the employee’s departure to customers if they are in a customer-facing role.
+                </p>
+              </div>
+            </div>
+            <br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+
+            <!--sec_8-->
+            <div class="row content" id="ctc">
+              <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+                <img src="assets/img/software pics/costtocom2.png" Height="200px"
+                  style="padding-top: 130px; padding-left: 60px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+                <h3>Cost To Company (CTC) Management</h3>
+                <br><br>
+                <p>
+                  Monetary Benefits are those benefits that are other than allowances and are directly paid to an employee. These include Basic Pay, Bonus, Commission, and Incentives, etc. These benefits are fully taxable in the hands of the employee.
+                  <br><br>
+                  Allowances are indirect costs that are paid to an employee. These costs are further divided into two main categories viz., Personal and Duty Based.
+                  <br><br>
+                  Retirement benefits are those benefits that an employer pays on behalf of the employee that are accrued at the time of retirement.
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+
+            <!--sec_9-->
+
+            <div class="row content" id="employeee Case Management">
+              <div class="col-md-5">
+                <img src="assets/img/software pics/employeecasema.jpeg" Height="200px"
+                  style="padding-top: 100px; padding-left: 60px; " class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-4">
+                <br>
+                <h3>Employee Case Management</h3>
+                <p>
+                  A concern I have when I talk with investigators about how they are managing their cases is that there just isn’t any sort of business continuity protocol in place
+                  <br><br>
+                  case management solution at EHRMS, is that HR Acuity allows us to retain all of our investigative data in one centralized portal.
+                   <br><br>
+                   I like being able to look back on complaints and investigations to see the patterns, such as I mentioned with the situation with the general manager whose behavior was in conflict with organizational values.
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+
+            <!--sec_10-->
+            <div class="row content" id="employeeee Asset Tracking Management">
+              <div class="col-md-5 order-1 order-md-2">
+                <img src="assets/img/software pics/assettracking.png" Height="200px"
+                  style="padding-top: 100px; padding-left: 60px; " class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-5 order-2 order-md-1">
+                <br>
+                <h3>Employee asset tracking Management</h3>
+                <br><br>
+                <p>
+                  Employee asset Tracking is carried out by organizations with the aim of improving the usage and security of valuable items.
+                  <br><br>
+                  In our EHRMS Payroll software, The Employee asset tracking management combining many conceptual elements of an employee's life cycle through an organization focusing on that people are a company's most important assets.
+                  <br><br>
+                  Automate your asset management processes and reduce admin.
+                </p>
+              </div>
+            </div>
+            <br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+            <!--sec_11-->
+             <br><br><br>
+            <div class="row content" id="employe Self Portal">
+              <div class="col-md-5">
+                <img src="assets/img/software pics/employeeselfport1.jpeg" class="img-fluid" alt="" style="padding-top: 80px; padding-left: 60px;">
+              </div>
+              <div class="col-md-7 pt-4">
+                <h3>Employee Self Portal</h3>
+                <br>
+                <p>Self-service is no longer a luxury, but has expectantly become a part of our daily routines. We want the power and freedom to do things when we want, and we expect self-service to be an effortless user experience.
+                  <br><br>
+                  Employee Self Service comes as opted simple tool to employees for leave management, pay slip and attendance details pertaining to each employee.
+                  <br><br>
+                  Employee Self Portal could also act as a tool to put forward employee grievance and suggestions to management at the fingertips of the user.
+                </p>
+              </div>
+            </div>
+
+            <br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+            <br><br><br><br>
+            <!--sec_12-->
+            <div class="row content" id="kpi">
+              <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+                <img src="assets/img/software pics/kpikrikra.jpg" Height="200px"
+                  style="padding-top: 100px; padding-left: 50px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+                <h3>Key Performance Indicators (KPI) /Key Result Area (KRA) /Key Risk Indicators (KRI)</h3>
+                <br>
+                <p>
+                  KPI: Keep a running tally of payroll errors per pay period. For a long-term payroll accuracy percentage, divide the number of payroll runs with errors by the total number of payroll runs.
+                  <br><br>
+                  KRA: Each job can be broken down into about five to seven key result areas, seldom more. These are the results that you absolutely, positively have to get to fulfill your responsibilities and make your maximum contribution to your organization.
+                  <br><br>
+                  KRI: Our EHRMS Payroll Software Used to metric for measuring the likelihood that the combined probability of an event and its consequence will exceed the organization's risk appetite and have a profoundly negative impact on an organization's ability to be successful.
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+
+            <!--sec_13-->
+            <div class="row content" id="human Capital Management">
+              <div class="col-md-5">
+                <img src="assets/img/software pics/hcm1.png" Height="200px"
+                  style="padding-top:100px; padding-left: 60px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-4">
+                <br>
+                <h3>Human Capital Management</h3>
+                <br>
+                <p>
+                  When you and your employees are easily able to access the information you need, when you need it, it can completely transform your organization. You’ll go from drowning in the tactical details of your business to becoming more strategic in your approach to human resources and your business as a whole.
+                  <br><br>
+                  An HCM software system lets employees input their own time and attendance information, which is then connected to their salary information and ACA reporting requirements.
+                  <br><br>
+                  HCM technology also makes for much faster and more accurate onboarding, so it’s less time-consuming to grow your workforce.
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+            <!--sec_14-->
+            <div class="row content" id="training Development">
+              <div class="col-md-5 order-1 order-md-2" data-aos="fade-left">
+                <img src="assets/img/software pics/training2.jpg" Height="200px"
+                  style="padding-top: 100px; padding-left: 60px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-5 order-2 order-md-1" data-aos="fade-right">
+                <h3>Training & Development</h3>
+                <br>
+                <p>
+                  Some methods of employee development occur on the job, with the manager or an experienced co-worker leading the development activity in the context of the actual work environment.
+                  <br><br>
+                  To accelerate the pace of employee learning, organizations may use an individual development plan (IDP).
+                  <br><br>
+                  Succession planning identifies long-range needs and cultivates internal talent to meet those needs. Succession plans typically focus on a one- to three-year process of preparing employees—not preselecting them—for new roles in the organization.
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='  margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+            <!--sec_15-->
+            <div class="row content" id="recruitment">
+              <div class="col-md-5">
+                <img src="assets/img/software pics/recurtmenttt.png" Height="200px"
+                  style="padding-top: 100px; padding-left: 60px;" class="img-fluid" alt="">
+              </div>
+              <div class="col-md-7 pt-4">
+                <br>
+                <h3>Recruitment</h3>
+                <br>
+                <p>
+                  Scheduling Interviews, short listing and confirmation of resources has never been this simple.
+                  <br><br>
+                  E-pay HRMS you can either use the templates available or create your own covering letters, offer letters, interview schedulers etc., and update to database to grab the attention of prospective resources.
+                  <br><br>
+                  Our EHRMS is an exceptionally user-friendly payroll software that can help recruitment agencies with payroll management. It is loaded with some of the best payroll management features. Its small-business-friendly price tag makes it a great choice for up and coming recruitment and staffing companies.
+
+                </p>
+              </div>
+            </div>
+            <br><br><br>
+            <div data-aos="fade-in"
+              style='margin-left: auto; margin-right: auto; width: 30%;; border-bottom: 3px solid #fcb102;'>
+            </div>
+           </div>  
+          
+          
+       
+        
+        </div>
+        <br>
+        <br>
+        <br>
+        <div class="d-flex justify-content-center justify-content-lg-start">
+          <a href="/signinsignup.html" class="soft_1">Free Demo</a>
+          </div>
+    </div>
+
+
+
+
+    ****************************************************************************
+
+
+
+  <section id="software" class="softwaret">
+     
+   <div class="software-title" data-aos="fade-in" data-aos-delay="100">
+      <h2>Software features</h2>
+      <p>EXTENSIVE FEATURES FOR <strong>END-TO-END</strong> SOLUTIONS 
+        Tailored to perfection for a seamless experience</p>
+    </div>
+    <div class="row justify-content-left">
+      <div class="col-md-4" style="background: lightslategray; margin: 10%;">
+        <h1>box1</h1>
+        <img src="./assets/img/employeeman2.jpg" class="img-fluid" style="align-items: center;"  alt=""> 
+               
+      </div>
+      <div class="col-md-4 m-5" style="background: linen; margin-left: 10%; border-style: dotted;">
+        <h1>box2</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem laborum dolorem quas ut et vero  dignissimos nam libero aliquam reprehenderit tempora, beatae dolore repellendus aut, totam eaque tenetur optio veritatis?</p> 
+      </div>
+    </div>
+
+    <div class="row justify-content-center">
+        
+      <div class="col-sm-8 col-md-4 m-5" style="background: linen; margin-left: 10%; border-style: dotted;">
+        <h1>box2</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem laborum dolorem quas ut et vero  dignissimos nam libero aliquam reprehenderit tempora, beatae dolore repellendus aut, totam eaque tenetur optio veritatis?</p> 
+      </div>
+       <div class="col-sm-4 col-md-4" style="background: white; margin: 10%;">
+          <h1>box1</h1>
+          <img src="./assets/img/employeeman2.jpg" class="img-fluid" style="align-items: center;"  alt=""> 
+                 
+        </div>
+        
+    </div>
+     
+    <div class="row justify-content-left">
+      <div class="col-md-4" style="background: lightslategray; margin: 10%;">
+        <h1>box1</h1>
+        <img src="./assets/img/employeeman2.jpg" class="img-fluid" style="align-items: center;"  alt=""> 
+               
+      </div>
+      <div class="col-md-4 m-5" style="background: linen; margin-left: 10%; border-style: dotted;">
+        <h1>box2</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rem laborum dolorem quas ut et vero  dignissimos nam libero aliquam reprehenderit tempora, beatae dolore repellendus aut, totam eaque tenetur optio veritatis?</p> 
+      </div>
+    </div>
+     
+  </section>
+
+
+
+
+
+  style for css software features
+
+
+  .containerx {
+  background-color: #ffffff;
+}
+#Employee_management1 {
+  margin-left: 5%;
+  margin-right: 10%;
+}
+
+#Timecard_management {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#shift_management {
+  margin-left: 5%;
+  margin-right: 10%;
+}
+
+#attendance_management {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+#payroll_processing {
+  margin-left: 5%;
+  margin-right: 10%;
+}
+#employee_servics {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#employee_onboarding {
+   margin-left: 5%;
+   margin-right: 10%;
+}
+
+#employeecase_man {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#employeetracking_man {
+  margin-left: 9%;
+  margin-right: 10%;
+}
+
+#employee_selfportal {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#costto_man {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#keyperformance_indicators {
+  margin-left: 9%;
+  margin-right: 10%;
+}
+
+#humancapital_management {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#training_development {
+  margin-left: 9%;
+  margin-right: 10%;
+}
+
+#recruitmentt {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+ 
+.software h2{
+  color: #00008B;
+}
+.software-title p {
+  color: black;
+  font-size: 30px;
+}
+.software .icon-box {
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+  transition: all 0.3s ease-in-out;
+  border-radius: 8px;
+  z-index: 1;
+}
+
+.software .icon-box::before {
+  content: '';
+  position: absolute;
+  background: white;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 100%;
+  transition: all 0.3s;
+  z-index: -1;
+}
+
+.software .icon-box:hover::before {
+  background: pink;
+  top: 0;
+  border-radius: 0px;
+}
+
+.software.icon {
+  margin-bottom: 15px;
+}
+
+.software .icon i {
+  font-size: 48px;
+  line-height: 1;
+  color: palevioletred;
+  transition: all 0.3s ease-in-out;
+}
+
+.software .title {
+  font-weight: 700;
+  margin-bottom: 15px;
+  color: palevioletred;
+  font-size: 18px;
+}
+
+.software .title a {
+  color: palevioletred;
+}
+
+.software .description {
+  font-size: 15px;
+  line-height: 28px;
+  margin-bottom: 0;
+}
+
+.software .icon-box:hover .title a, .software .icon-box:hover .description {
+  color: #fff;
+}
+
+.software .icon-box:hover .icon i {
+  color: #fff;
+}
+
+.soft_1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 50px;
+  transition: 0.3s;
+  line-height: 1;
+  color: #00008B;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  margin-top: 6px;
+  border: 2px solid #00008B;
+  position: relative;
+  left: 44%;
+}
+
+.soft_1:hover {
+  background-color: #00008B;
+  color: white;
+  text-decoration: none;
+}
+___________________________________________________________________________
+___________________________________________________________________________
+services section
+
+.services h2{
+  color: #00008B;
+}
+
+
+.services {
+  padding-bottom: 20px;
+}
+
+.services .card {
+  border: 0;
+  padding: 0 70px;
+  margin-bottom: 60px;
+  position: relative;
+  background: transparent;
+}
+
+.services .card-img {
+  width: calc(100% + 100px);
+  margin-left: -60px;
+  overflow: hidden;
+  z-index: 9;
+  border-radius: 0;
+}
+
+.services .card-img img {
+  max-width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+
+.services .card-body {
+  z-index: 9;
+  width: 465px;
+  height: 220px;
+  background: #71B8E9;
+  border-top: 4px solid black;
+  border-radius: 20px;
+  padding: 30px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  margin-top: -60px;
+  transition: 0.3s;
+  position: relative;
+  right: 10%;
+}
+
+.services .card-title {
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.services .card-title a {
+  color: black;
+  transition: 0.3s;
+}
+
+.services .card-text {
+  color: black;
+}
+
+.services .read-more a {
+  color: black;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  transition: 0.3s;
+}
+
+.services .read-more a:hover {
+  color: white;
+}
+
+.services .card:hover img {
+  transform: scale(1.1);
+}
+
+.services .card:hover .card-body {
+  border-color: white;
+}
+
+.services .card:hover .card-body .card-title a {
+  color: white;
+}
+
+services section html percentage
+
+<section id="services" class="services">
+    <div class="container">
+
+      <div class="section-title" data-aos="fade-in" data-aos-delay="100">
+        <h2>Services</h2>
+        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      </div>
+      <br>
+      <br>
+      <div class="row">
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-right">
+          <div class="card">
+            <div class="card-img">
+              <img src="assets/img/payroll2.jpeg" height="349.09" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><a href="#Software Features">ACCURATE PAYROLL</a></h5>
+              <p class="card-text">Get 100% effortless accuracy & statutory compliance, every time. Balance sheets and profit-and-loss statements.
+              </p>
+              <div class="read-more"><a href="#Warehouse Process"><i class="icofont-arrow-right"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-left">
+          <div class="card">
+            <div class="card-img">
+              <img src="assets/img/HR1.jpeg" Height="349.09" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><a href=#PackagedSolutions>STREAMLINED HR</a></h5>
+              <p class="card-text">Implementing EPAY HRM automatically sets up processes & best practices.
+              </p>
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-right">
+          <div class="card">
+            <div class="card-img">
+              <img id="industryauto" src="assets/img/employes3.jpeg" height="349.09" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><a href=#Industry-Automations>EMPOWERED EMPLOYEES</a></h5>
+              <p class="card-text">Get major cost savings with effective employee self services.</p>
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-left">
+          <div class="card">
+            <div class="card-img">
+
+              <img src="assets/img/support2.jpeg" height="349.09" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><a href=#Identification_Solutions>Help & Support</a></h5>
+              <p class="card-text">It's very easy to get support from within the application.</p>
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-right">
+          <div class="card">
+            <div class="card-img">
+              <img src="assets/img/features5.jpeg" height="349.09" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><a href=#Engineering-Design>Core Feature </a></h5>
+              <p class="card-text">Everything you need for effortless efficiency</p>
+
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-left">
+          <div class="card">
+            <div class="card-img">
+              <img src="assets/img/self services6.jpeg" Height="349.09" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><a href=#training>Employee Self Service</a></h5>
+              <p class="card-text">An informed employee is a happy employee
+              </p>
+              
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-right">
+          <div class="card">
+            <div class="card-img">
+              <img id="industryauto" src="assets/img/report analysis.jpeg" height="349.09" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><a href=#Analysis>Reports & Analytics</a></h5>
+              <p class="card-text">Instant reports available on demand.</p>
+                
+                
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-left">
+          <div class="card">
+            <div class="card-img">
+
+              <img src="assets/img/add ons.jpeg" height="349.09" alt="...">
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><a href=#AI-machine-learning>Add-Ons</a></h5>
+              <p class="card-text">Additional tools to give you the extra edge.
+              </p>
+              
+            </div>
+          </div>
+        </div>
+
+    
+
+    </div>
+  </section>
+
+
+_____________________________________________________________________________________
+___________________________________________________________________________________
+
+clients style
+h1 {
+  color: #00008B;
+  font-size: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+
+.logo-slider .item {
+  background-color: #fff;
+  box-shadow: 0 4px 5px #cacaca;
+  border-radius: 8px;
+  padding: 15px;
+  border: 3px solid #111;
+}
+
+.logo-slider .slick-slide {
+  margin: 15px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #ff5722;
+}
+
+.slick-dots li button:before {
+  font-size: 12px;
+}
+
+.item:hover {
+  display: block;
+  transition: all ease 0.3s;
+  transform: scale(1.1) translateY(-4px);
+}
+
+.slick-next:before,
+.slick-prev:before {
+  color: #00008B;
+  font-size: 24px;
+}
+
+
+client html
+
+ <section id= "client-area">
+   <div class="container">
+     <h1>Our Clients</h1>
+     <br>
+     <br>
+   <div class="logo-slider">
+     <div class="item"><a href="#"><img src="./assets/img/clients/client-4.png" alt=""></a></div>
+     <div class="item"><a href="#"><img src="./assets/img/clients/client-4.png" alt=""></a></div>
+     <div class="item"><a href="#"><img src="./assets/img/clients/client-4.png" alt=""></a></div>
+     <div class="item"><a href="#"><img src="./assets/img/clients/client-4.png" alt=""></a></div>
+     <div class="item"><a href="#"><img src="./assets/img/clients/client-4.png" alt=""></a></div>
+     <div class="item"><a href="#"><img src="./assets/img/clients/client-4.png" alt=""></a></div>
+   </div>
+  </div>
+    </section>
+
+******************************************************************************
+
+#include <iostream>
+using namespace;
+
+int main ()
+{
+
+  int n;
+  int i;
+
+  cout << "Enter The Number:- " <<endl;
+  cin >> n;
+
+  for(i=1; i<=10; i++)
+  {
+    cout << n << "x" << i << n*i
+  }
+
+
+
+  return 0;
+}
+
+************************************************************************************************
+
+pricing table section code  
+
+<table class="table table-bordered" style="width: 100%;" id="mydatatable">
+      <thead>
+        <tr>
+          <th>
+            <h2 class="integrated">Integrated Cloud Platform.</h2>
+          </th>
+          <th>
+            <h2 class="standard">STANDARD</h2>
+            <h3 class="rs">Rs950/Month</h3>
+            <p class="per"><span class="pepm">15</span> Per Employee Per Month(PEPM)</p>
+          </th>
+          <th>
+            <h2 class="professional">PROFESSIONAL</h2>
+            <h3 class="rs">Rs1495/Month</h3>
+            <p class="per"><span class="pepm">25</span> Per Employee Per Month(PEPM)</p>
+          </th>
+          <th>
+            <h2 class="premium">PREMIUM</h2>
+            <h3 class="rs">Rs2495/Month</h3>
+            <p class="per"><span class="pepm">35</span> Per Employee Per Month(PEPM)</p>
+          </th>
+          <th>
+            <h2 class="enterprise">ENTERPRISE</h2>
+            <h3 class="rs">Rs4995/Month</h3>
+            <p class="per"><span class="pepm">75</span> Per Employee Per Month(PEPM)</p>
+          </th>
+        </tr>
+      </thead>
+
+      <tbody>
+         <tr>
+           <td class="dash">Dashboard</td>      
+           <td class="tick">✔</td>
+           <td class="tick">✔</td>
+           <td class="tick">✔</td>
+           <td class="tick">✖</td>
+         </tr>
+
+         <tr>
+          <td class="dash">Time Reader Integration</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Time Card Attendance</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Employee Master</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Shift Pattern / Allocation</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Leave & Holiday Management</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+
+        <tr>
+          <td class="dash">On duty & Permission</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">TimeCard Reports</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+
+        <tr>
+          <td class="dash">Employee Self Service</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+
+        <tr>
+          <td class="dash">Email & SMS Services</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Salary Structure Configuration</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Allowance & Deductions</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Loans and Advances</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+        <tr>
+          <td class="dash">Payroll Processing</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+
+        <tr>
+          <td class="dash">Payroll & Statutory Reports</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+        <tr>
+          <td class="dash">Reimbursement</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Full & Final Settlement</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Asset Management</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+
+        <tr>
+          <td class="dash">HCM, KPI & KRA</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Training & Development</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+        <tr>
+          <td class="dash">Recruitment</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+        <tr>
+          <td class="dash">Employee Separation Process</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+          <td class="tick">✔</td>
+        </tr>
+
+         
+      </tbody>
+
+      <tfoot>
+       <tr>
+         <td></td>
+         <td><input class="siup_1" type="button" value="Sign Up"></td>
+         <td><input class="siup_2" type="button" value="Sign Up"></td>
+         <td><input class="siup_3" type="button" value="Sign Up"></td>
+         <td><input class="siup_4" type="button" value="Sign Up"></td>
+       </tr>
+      </tfoot>
+
+    </table>
+
+    styling section of pricing
+
+    #wax {
+  background-color: white;
+}
+#tenz {
+  color: red;
+  text-align-last: center;
+}
+
+#tenzone {
+ color: lightskyblue;
+ text-align: center;
+ font-weight: bolder;
+}
+
+#tentwo {
+  color: gray;
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 700;
+}
+
+.standard {
+  color: #0072AA;
+  font-weight: bolder;
+  padding: 1rem;
+}
+
+.professional {
+  color: #1B8E96;
+  font-weight: bolder;
+  padding: 1rem;
+}
+
+.premium {
+  color: #FF6F69;
+  font-weight: bolder;
+  padding: 1rem;
+}
+
+.enterprise {
+   color: #8CBDD5;
+  font-weight: bolder;
+  padding: 1rem;
+}
+
+.integrated {
+  color: #fff;
+  padding: 1.5rem;
+  background-color: #111;
+}
+
+.rs {
+  color: #525252;
+  text-align: center;
+}
+
+.per {
+  color: #7A8AA1;
+  text-align: center;
+}
+
+.table {
+  position: relative;
+  right: 3%;
+  border-color: grey;
+}
+
+.dash {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.tick {
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
+  color: #1E90FF;
+}
+
+.siup_1 {
+ margin-top: 3;
+ margin-left: 30px;
+ border-radius: 10px;
+ min-width: 100px;
+ min-height: 40px;
+ border-style: none;
+ background-color: #47b2e4;
+ color: #fff;
+}
+.siup_2 {
+  margin-top: 3;
+  margin-left: 60px;
+  min-width: 100px;
+  border-radius: 10px;
+  min-height: 40px;
+  border-style: none;
+  background-color: #47b2e4;
+ color: #fff;
+}
+
+.siup_3 {
+  margin-top: 3;
+  margin-left: 25px;
+  min-width: 100px;
+  min-height: 40px;
+  border-style: none;
+  border-radius: 10px;
+  background-color: #47b2e4;
+ color: #fff;
+}
+
+.siup_4 {
+  margin-top: 3;
+  margin-left: 35px;
+  min-width: 100px;
+  min-height: 40px;
+  border-style: none;
+  border-radius: 10px;
+  background-color: #47b2e4;
+ color: #fff;
+}
+
