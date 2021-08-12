@@ -1327,22 +1327,23 @@
       
       <div class="contactForm">
         <h2>Send a Message</h2>
-        <form action="forms/contact-form-handler.php" id="usrform" method="post">
+        <div id="error_message"></div>
+        <form id="usrform" action="https://formspree.io/f/mrgrogqo" method="POST">
         <div class="formBoxOne">
          <div class="inputBoxOne w50">
-           <input type="text" name="firstname" id="firstname" required>
+           <input type="text" name="firstname"  id="firstname" required>
            <Span>First Name</Span>
          </div>
          <div class="inputBoxOne w50">
-          <input type="text" name="lastname" id="lastname" required>
+          <input type="text" name="lastname"  id="lastname" required>
           <Span>Last Name</Span>
         </div>
         <div class="inputBoxOne w50">
-          <input type="email" name="email" id="email" required>
+          <input type="email" name="email"  id="email" required>
           <Span>Email</Span>
         </div>
         <div class="inputBoxOne w50">
-          <input type="text" name="phone" id="phone" required>
+          <input type="text" name="mobile-no"  id="phone" required>
           <Span>Mobile No</Span>
         </div>
         <div class="inputBoxOne w100">
@@ -1350,7 +1351,7 @@
            <span>Write Your Message Here...</span>
         </div>
         <div class="inputBoxOne w100">
-          <input type="submit" value="Send" name="comment">
+          <input type="submit">
         </div>
       </form> 
       

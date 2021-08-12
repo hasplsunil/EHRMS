@@ -252,124 +252,6 @@
 })()  
 
 
-//modal 
-
-var modal = document.getElementById("myModal");
-var btn = document.getElementById("myBtn");
-var span = document.getElementsByClassName("close")[0];
-
-btn.onclick = function () {
-  modal.style.display = "block";
-}
-
-span.onclick = function () {
-  modal.style.display = "none";
-}
-
-window.onclick = function (event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-
-//for each modal
-//ser 1
-var readmore = document.getElementsByClassName("employee Management")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-//ser 2
-var readmore = document.getElementsByClassName("timecard Management")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-//ser 3
-var readmore = document.getElementsByClassName("shift Management")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-//ser 4
-var readmore = document.getElementsByClassName("attendance Management")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-//ser 5
-var readmore = document.getElementsByClassName("payroll Processing")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-//ser 6
-var readmore = document.getElementsByClassName("employee Self Servics")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-//ser 7
-var readmore = document.getElementsByClassName("employee Onboarding")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-//ser 8
-var readmore = document.getElementsByClassName("ctc")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-
-//ser 9
-var readmore = document.getElementsByClassName("employeee Case Management")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-
-//ser 10
-var readmore = document.getElementsByClassName("employeeee Asset Tracking Management")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-
-//ser 11
-var readmore = document.getElementsByClassName("employe Self Portal")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-
-//ser 12
-var readmore = document.getElementsByClassName("kpi")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-
-//ser 13
-var readmore = document.getElementsByClassName("human Capital Management")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-
-//ser 14
-var readmore = document.getElementsByClassName("training Development")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
-
-//ser 15
-var readmore = document.getElementsByClassName("recruitment")[0];
-readmore.onclick = function () {
-  modal.style.display = "block";
-}
-
 //pricing toggle
 
 /*function check(){
@@ -468,10 +350,6 @@ input:checked + .slider:before {
 }
 
 */
-
-
-
-
 
 
 
