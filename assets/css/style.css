@@ -145,7 +145,12 @@ h1, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 500;
   letter-spacing: 2px;
-  text-transform: uppercase;
+
+}
+
+.epaylogo{
+ 
+  color: #9EC6B9;
 }
 
 #header .logo a {

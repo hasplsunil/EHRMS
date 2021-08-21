@@ -445,12 +445,12 @@ img{
 
 /*Show login*/
 .block{
-  display: block;
+  display: none;
 }
 
 /*Hidden login*/
 .none{
-  display: none;
+  display: block;
 }
 
 /* ===== MEDIA QUERIES =====*/
@@ -497,7 +497,7 @@ img{
   }
 
   .login__create{
-    bottom: -5.5rem;
+    bottom: -2.5rem;
   }
 }
 
